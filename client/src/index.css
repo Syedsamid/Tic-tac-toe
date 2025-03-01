@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body{
+    margin: 0;
+    font-family: "Homemade Apple", cursive;
+    -webkit-font-smoothing: anatialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: #0f1B21;
+}
+
+code{
+    font-family: source-code-pro, Melo, Monaco, Consolas, 'Sourier New',
+    monospace;
+}
